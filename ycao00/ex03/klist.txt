@@ -1,0 +1,5 @@
+Issued                Expires               Principal
+Jan 10 14:27:23 2017  Jan 11 00:27:23 2017  krbtgt/42.US.ORG@42.US.ORG
+Jan 10 14:27:25 2017  Jan 11 00:27:23 2017  ldap/ldap-proxy.42.us.org@42.US.ORG
+Jan 10 15:21:36 2017  Jan 11 00:27:23 2017  ldap/ldap-master.42.us.org@42.US.ORG
+Jan 10 15:51:03 2017  Jan 11 00:27:23 2017  host/vgs-fn1.42.us.org@42.US.ORG
